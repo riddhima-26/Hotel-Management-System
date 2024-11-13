@@ -8,9 +8,12 @@ The provided Java code implements a basic Hotel Management System using JavaFX f
 - JavaFX
 
 ## Installation and Setup
-1. Make sure you have javafx-sdk installed
-2. Go to project directory and then on cmd type:
-javac -d bin -cp "JavaFX-sdk-address" hotelmanagement\*.java
+1. Clone the repository
+   git clone https://github.com/riddhima-26/Hotel-Management-System.git
+
+2. Make sure you have javafx-sdk-23.0.1 installed.
+3.Go to project directory and then on cmd type:
+javac -d bin -cp "src;lib\javafx-sdk-23.0.1\lib\*" hotelmanagement\*.java
 
 Then enter:
 
