@@ -8,6 +8,7 @@ The provided Java code implements a basic Hotel Management System using JavaFX f
 - JavaFX
 
 ## Installation and Setup
+```bash
 1. Clone the repository
    git clone https://github.com/riddhima-26/Hotel-Management-System.git
 
